@@ -2,7 +2,7 @@
 
 > Golang Roadmap for becoming a [Go](https://golang.org/) developer in 2024:
 
-The chart below is a guide that explains the paths that will take you to learn and become a Go developer. I made this chart as a tip for everyone who asks, "*What should I learn next as a Go developer?*"
+The chart below is a guide that explains the paths that will take you to learn and become a Go developer. This chart is created as a helpful tip for everyone who asks, "*What should I learn next as a Go developer?*"
 
 ## Disclaimer
 
