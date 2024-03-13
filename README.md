@@ -10,19 +10,19 @@ The chart below is a guide that explains the paths that will take you to learn a
 ## Give a Star! :star:
 
 If you find this project useful for learning or starting your own solution, we would greatly appreciate it if you could give it a :star: star. </br>  Thank you for your support!  
-## Go Beginner Roadmap
+##  [Go Beginner Roadmap](./go-beginner/README.md)
 to get more details check on [Go Beginner Roadmap](./go-beginner/README.md)
 
 ![Go Beginner Roadmap](./golang-developer-roadmap.png)
 
 
-## Go Advanced Roadmap
+## [Go Advanced Roadmap](./go-advanced/README.md)
 to get more details check on [Go Advanced Roadmap](./go-advanced/README.md)
 
 ![Go Advanced Roadmap](./golang-developer-roadmap.png)
 
 ## General Resources
-for more deatils 
+for more details 
  1. first 
  2. second 
 
