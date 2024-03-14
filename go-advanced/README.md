@@ -1,12 +1,6 @@
-# Golang Advanced Roadmap 2024
-
-> Golang Roadmap for becoming a [Go](https://golang.org/) developer in 2024:
-
-The chart below is a guide that explains the paths that will take you to learn and become a Go developer. This chart is created as a helpful tip for everyone who asks, "*What should I learn next as a Go developer?*"
-
-## Disclaimer
-
-> GoLang Gopher Roadmap provides a clear path for your learning journey in GoLang. Our roadmap focuses on understanding the landscape, helping you choose the right tools for the job, and avoiding hype-driven choices. Dive in, explore, and enhance your skills with a well-rounded understanding of GoLang development.
+# Golang Advanced Roadmap 
+Welcome to the comprehensive roadmap for advancing your Go (Golang) skills beyond the basics! Building upon the foundational knowledge covered in the beginner section, this roadmap offers a diverse array of advanced topics, tools, and concepts to deepen your understanding and proficiency in Go development. Whether you're interested in web development, systems programming, distributed systems, microservices or exploring cutting-edge techniques, this roadmap provides a roadmap for your continued growth and mastery of Go. Let's dive in and elevate your Go programming expertise to the next level!
+ 
 ## Give a Star! :star:
 
 If you find this project useful for learning or starting your own solution, we would greatly appreciate it if you could give it a :star: star. </br>  Thank you for your support!  
@@ -19,19 +13,20 @@ If you find this project useful for learning or starting your own solution, we w
 
 1. Prerequisites
 
-   - [Go](https://golangbot.com/)
+   - [Go docs ](https://go.dev/doc/)
+   - [Tour of Go](https://go.dev/tour/welcome/1)
+   - [Go by Example](https://gobyexample.com/)
    - [Go Modules](https://blog.golang.org/using-go-modules)
-   - [SQL](https://www.w3schools.com/sql/default.asp)
 
 2. General Development Skills
 
    - Learn GIT, create a few repositories on GitHub, share your code with other people
    - Know HTTP(S) protocol, request methods (GET, POST, PUT, PATCH, DELETE, OPTIONS)
-   - Don't be afraid of using Google, [Power Searching with Google](http://www.powersearchingwithgoogle.com/)
-   - Read a few books about algorithms and data structures
    - Learn about implementation of a basic Authentication
+   - Read a few books about algorithms and data structures
    - Solid principles, architectural & design patterns, ecc
    - Basics of software testing (unit, integration, e2e)
+   - [SQL](https://www.w3schools.com/sql/default.asp)
 
 3. CLI Tools
    1. [cobra](https://github.com/spf13/cobra)

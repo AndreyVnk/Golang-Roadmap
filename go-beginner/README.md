@@ -1,18 +1,13 @@
-# Golang Beginner Roadmap 2024
+# Golang Beginner Roadmap
 
-> Golang Roadmap for becoming a [Go](https://golang.org/) developer in 2024:
-
-The chart below is a guide that explains the paths that will take you to learn and become a Go developer. This chart is created as a helpful tip for everyone who asks, "*What should I learn next as a Go developer?*"
-
-## Disclaimer
-
-> GoLang Gopher Roadmap provides a clear path for your learning journey in GoLang. Our roadmap focuses on understanding the landscape, helping you choose the right tools for the job, and avoiding hype-driven choices. Dive in, explore, and enhance your skills with a well-rounded understanding of GoLang development.
+Welcome to our beginner-friendly roadmap for learning Go (Golang)! This concise guide is designed to gently introduce newcomers to the language, focusing on fundamental concepts without overwhelming you with excessive content. Whether you're curious about programming or transitioning from another language, this roadmap will provide a clear path for acquiring essential skills and building a solid foundation in Go development. Let's embark on this journey together and unlock the exciting world of Go programming!
 ## Give a Star! :star:
 
 If you find this project useful for learning or starting your own solution, we would greatly appreciate it if you could give it a :star: star. </br>  Thank you for your support!  
+
 ## Roadmap
 
-![Roadmap](./golang-beginner-roadmap.drawio.png)
+![Golang Beginner Roadmap](./golang-beginner-roadmap.drawio.png)
 
 
 ## Resources
@@ -75,6 +70,9 @@ If you find this project useful for learning or starting your own solution, we w
     1. Unit, Behavior, Integration Testing
        1. [GoMock](https://github.com/golang/mock)
        2. [Testify](https://github.com/stretchr/testify)
+
+10. Next Step 
+      - by checking the [Go Advanced Roadmap](./go-advanced/README.md)
 
 
 ## Contribution
