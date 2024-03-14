@@ -19,7 +19,7 @@ to get more details check on [Go Beginner Roadmap](./go-beginner/README.md)
 ## [Go Advanced](./go-advanced/README.md)
 to get more details check on [Go Advanced Roadmap](./go-advanced/README.md)
 
-![Go Advanced Roadmap](./go-advanced/golang-advanced-roadmap.png)
+![Go Advanced Roadmap](./go-advanced/golang-advanced-roadmap.drawio.png)
 
 ## General Resources
 for more details 
