@@ -1,8 +1,9 @@
 # Golang Roadmap 2024
 
 <p align="center">
- <img alt="Golang Gopher Roadmap beginner to advanced" src='https://github.com/baselrabia/Golang-Roadmap/assets/27627958/9245068f-307f-494a-b2f2-9d07a27a5269' width='60%' style="border-radius: 7%">
+ <img alt="Golang Gopher Roadmap beginner to advanced" src='https://github.com/baselrabia/Golang-Roadmap/assets/27627958/2ffe64c8-9fed-4a48-9f80-9d60ec5ece58' width='60%'>
 </p>
+
 
 
 > Golang Roadmap for becoming a [Go](https://golang.org/) developer in 2024:
@@ -30,6 +31,15 @@ to get more details check on [Go Advanced Roadmap](./go-advanced/README.md)
 for more details 
  1. first 
  2. second 
+
+## Top Github Repositories
+- [Go Data Structures](https://github.com/emirpasic/gods)
+
+- [Standard Go Project Layout](https://github.com/golang-standards/project-layout)
+
+- [Design Patten in Go](https://github.com/tmrts/go-patterns)
+
+- [Ultimate Go notes](https://github.com/betty200744/ultimate-go)
 
 ## Contribution
 
