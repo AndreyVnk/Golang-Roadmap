@@ -13,7 +13,7 @@ If you find this project useful for learning or starting your own solution, we w
 ##  [Go Beginner](./go-beginner/README.md)
 to get more details check on [Go Beginner Roadmap](./go-beginner/README.md)
 
-![Go Beginner Roadmap](./go-beginner/golang-developer-roadmap.drawio.png)
+![Go Beginner Roadmap](./go-beginner/golang-beginner-roadmap.drawio.png)
 
 
 ## [Go Advanced](./go-advanced/README.md)

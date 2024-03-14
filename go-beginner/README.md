@@ -12,7 +12,7 @@ The chart below is a guide that explains the paths that will take you to learn a
 If you find this project useful for learning or starting your own solution, we would greatly appreciate it if you could give it a :star: star. </br>  Thank you for your support!  
 ## Roadmap
 
-![Roadmap](./golang-developer-roadmap.drawio.png)
+![Roadmap](./golang-beginner-roadmap.drawio.png)
 
 
 ## Resources
