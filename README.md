@@ -1,5 +1,10 @@
 # Golang Roadmap 2024
 
+<p align="center">
+ <img alt="Golang Gopher Roadmap beginner to advanced" src='https://github.com/baselrabia/Golang-Roadmap/assets/27627958/9245068f-307f-494a-b2f2-9d07a27a5269' width='60%' style="border-radius: 7%">
+</p>
+
+
 > Golang Roadmap for becoming a [Go](https://golang.org/) developer in 2024:
 
 The chart below is a guide that explains the paths that will take you to learn and become a Go developer. This chart is created as a helpful tip for everyone who asks, "*What should I learn next as a Go developer?*"
