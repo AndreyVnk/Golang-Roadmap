@@ -8,7 +8,7 @@
 
 > Golang Roadmap for becoming a [Go](https://golang.org/) developer in 2024:
 
-The charts below is a guide that explains the paths that will take you to learn and become a Go developer. This chart is created as a helpful tip for everyone who asks, "*What should I learn next as a Go developer?*"
+The charts below are a guide that explains the paths that will take you to learn and become a Go developer. This chart is created as a helpful tip for everyone who asks, "*What should I learn next as a Go developer?*"
 
 ## Disclaimer
 
@@ -17,7 +17,7 @@ The charts below is a guide that explains the paths that will take you to learn 
 
 If you find this project useful for learning or starting your own solution, we would greatly appreciate it if you could give it a :star: star. </br>  Thank you for your support!  
 ##  [Go Beginner](./go-beginner/README.md)
-The Golang Roadmap is separated to two parts, the [Go Beginner Roadmap](./go-beginner/README.md) is designed to gently introduce newcomers to the language, focusing on fundamental concepts without overwhelming you with excessive content. to get more details check on [Go Beginner Roadmap](./go-beginner/README.md)
+The Golang Roadmap is separated into two parts, the [Go Beginner Roadmap](./go-beginner/README.md) is designed to gently introduce newcomers to the language, focusing on fundamental concepts without overwhelming you with excessive content. to get more details check on [Go Beginner Roadmap](./go-beginner/README.md)
 
 ![Go Beginner Roadmap](./go-beginner/golang-beginner-roadmap.drawio.png)
 
@@ -39,7 +39,7 @@ for more details
 
 - [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/)
 
-- [educative Golang for Programmers](https://www.educative.io/path/golang-for-programmers)
+- [Educative Golang for Programmers](https://www.educative.io/path/golang-for-programmers)
 
 ## Youtube Resources
 
@@ -54,7 +54,7 @@ for more details
 
 
 
-- Youtube Channels to follow 
+- YouTube channels to follow 
     - [Gopher Academy](https://www.youtube.com/@GopherAcademy)
     - [GopherCon UK](https://www.youtube.com/@GopherConUK)
     - [GopherCon Europe](https://www.youtube.com/@GopherConEurope)
@@ -65,7 +65,7 @@ for more details
     - [The Go Time podcast](https://changelog.com/gotime)  by [Mat Ryer](https://twitter.com/matryer)
 
 
-## Top Github Repositories
+## Top GitHub Repositories
 - [Go Data Structures](https://github.com/emirpasic/gods)
 
 - [Standard Go Project Layout](https://github.com/golang-standards/project-layout)
@@ -83,7 +83,7 @@ for more details
 
 ## Contribution
 
-The roadmap is built using [Draw.io](https://www.draw.io/). Project file can be found at `golang-developer-roadmap.xml` file. To modify it, open draw.io, click **Open Existing Diagram** and choose `xml` file with project. It will open the roadmap for you. Update it, upload and update the images in readme and create a PR (export as png with 400% zoom and minify that with [Compressor.io](https://compressor.io/compress)).
+The roadmap is built using [Draw.io](https://www.draw.io/). The roadmap file can be found for the beginner roadmap in the `./go-beginner/golang-beginner-roadmap.drawio.xml` file and the advanced roadmap  `./go-advanced/golang-advanced-roadmap.drawio.xml` file. To modify it, open draw.io, click **Open Existing Diagram**, and choose the `XML` file with the project. It will open the roadmap for you. Update it, upload and update the images in readme, and create a PR (export as PNG with 400% zoom and minify that with [Compressor.io](https://compressor.io/compress)).
 
 - Open a pull request with improvements
 - Discuss ideas in issues
