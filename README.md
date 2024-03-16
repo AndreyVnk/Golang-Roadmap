@@ -28,7 +28,6 @@ The General Roadmap [Go Advanced Roadmap](./go-advanced/README.md) is Building u
 ![Go Advanced Roadmap](./go-advanced/golang-advanced-roadmap.drawio.png)
 
 ## General Resources
-for more details 
 - go.dev 
     - [Go docs ](https://go.dev/doc/)
     - [Tour of Go](https://go.dev/tour/welcome/1)
