@@ -51,6 +51,8 @@ The General Roadmap [Go Advanced Roadmap](./go-advanced/README.md) is Building u
    - [Golang University 101](https://www.youtube.com/playlist?list=PLEcwzBXTPUE9V1o8mZdC9tNnRZaTgI-1P): introduces fundamental Go concepts and shows you how to use the Go tools to create and manage Go code
    - [Golang University 201](https://www.youtube.com/playlist?list=PLEcwzBXTPUE_5m_JaMXmGEFgduH8EsuTs): steps it up a notch, explaining important techniques like testing, web services, and APIs
    - [Golang University 301](https://www.youtube.com/playlist?list=PLEcwzBXTPUE8KvXRFmmfPEUmKoy9LfmAf): dives into more advanced topics like the Go scheduler, implementation of maps and channels, and optimization techniques
+
+- General YouTube playlists 
    - [Go Code Club](https://www.youtube.com/playlist?list=PLEcwzBXTPUE_YQR7R0BRtHBYJ0LN3Y0i3): a group of Gophers who get together to read and discuss Go code and learn a lot about the Go language, the standard libraries, and good Go style along the way.
      
 - Google for Developers
