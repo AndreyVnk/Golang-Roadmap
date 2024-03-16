@@ -51,6 +51,7 @@ The General Roadmap [Go Advanced Roadmap](./go-advanced/README.md) is Building u
    - [Golang University 101](https://www.youtube.com/playlist?list=PLEcwzBXTPUE9V1o8mZdC9tNnRZaTgI-1P): introduces fundamental Go concepts and shows you how to use the Go tools to create and manage Go code
    - [Golang University 201](https://www.youtube.com/playlist?list=PLEcwzBXTPUE_5m_JaMXmGEFgduH8EsuTs): steps it up a notch, explaining important techniques like testing, web services, and APIs
    - [Golang University 301](https://www.youtube.com/playlist?list=PLEcwzBXTPUE8KvXRFmmfPEUmKoy9LfmAf): dives into more advanced topics like the Go scheduler, implementation of maps and channels, and optimization techniques
+   - [Go Code Club](https://www.youtube.com/playlist?list=PLEcwzBXTPUE_YQR7R0BRtHBYJ0LN3Y0i3): a group of Gophers who get together to read and discuss Go code and learn a lot about the Go language, the standard libraries, and good Go style along the way.
      
 - Google for Developers
     - [Google I/O 2012 - Go Concurrency Patterns](https://www.youtube.com/watch?v=f6kdp27TYZs)
@@ -62,6 +63,7 @@ The General Roadmap [Go Advanced Roadmap](./go-advanced/README.md) is Building u
     - [GopherCon Europe](https://www.youtube.com/@GopherConEurope)
     - [Anthony GG](https://www.youtube.com/@anthonygg_)
     - [Melkey DEV](https://www.youtube.com/@MelkeyDev)
+    - [Bitfield Consulting](https://www.youtube.com/@BitfieldConsulting)
 
 - Podcasts 
     - [The Go Time podcast](https://changelog.com/gotime)  by [Mat Ryer](https://twitter.com/matryer)
