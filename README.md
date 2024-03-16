@@ -48,11 +48,14 @@ for more details
 
     - [General Golang topics in Arabic playlist](https://www.youtube.com/playlist?list=PLfGmsV6pPP6R0_AxXS1h66NJMHWDpsP2b)
 
+- YouTube playlists of the very best conference talks and video tutorials, tailored for beginners, intermediate, and advanced Gophers respectively:
+   - [Golang University 101](https://www.youtube.com/playlist?list=PLEcwzBXTPUE9V1o8mZdC9tNnRZaTgI-1P): introduces fundamental Go concepts and shows you how to use the Go tools to create and manage Go code
+   - [Golang University 201](https://www.youtube.com/playlist?list=PLEcwzBXTPUE_5m_JaMXmGEFgduH8EsuTs): steps it up a notch, explaining important techniques like testing, web services, and APIs
+   - [Golang University 301](https://www.youtube.com/playlist?list=PLEcwzBXTPUE8KvXRFmmfPEUmKoy9LfmAf): dives into more advanced topics like the Go scheduler, implementation of maps and channels, and optimization techniques
+     
 - Google for Developers
     - [Google I/O 2012 - Go Concurrency Patterns](https://www.youtube.com/watch?v=f6kdp27TYZs)
     - [Google I/O 2013 - Advanced Go Concurrency Patterns](https://www.youtube.com/watch?v=QDDwwePbDtw)
-
-
 
 - YouTube channels to follow 
     - [Gopher Academy](https://www.youtube.com/@GopherAcademy)
@@ -63,7 +66,7 @@ for more details
 
 - Podcasts 
     - [The Go Time podcast](https://changelog.com/gotime)  by [Mat Ryer](https://twitter.com/matryer)
-
+      
 
 ## Top GitHub Repositories
 - [Go Data Structures](https://github.com/emirpasic/gods)
