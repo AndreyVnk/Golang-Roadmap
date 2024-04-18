@@ -72,6 +72,8 @@ The General Roadmap [Go Advanced Roadmap](./go-advanced/README.md) is Building u
       
 
 ## Top GitHub Repositories
+- [Awesome Go](https://github.com/avelino/awesome-go)
+  
 - [Go Data Structures](https://github.com/emirpasic/gods)
 
 - [Standard Go Project Layout](https://github.com/golang-standards/project-layout)
